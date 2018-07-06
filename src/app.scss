@@ -1,0 +1,8 @@
+$bodyColor:pink;
+$fontColor:yellow;
+body{
+    background: $bodyColor
+    p{
+        color:$fontColor
+    }
+}
